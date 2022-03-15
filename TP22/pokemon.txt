@@ -1,0 +1,31 @@
+E;RENA
+P;Bulbasaur;45;49;49
+P;Ivysaur;60;42;63
+P;Venusaur;59;41;32
+P;VenusaurMega Venusaur;26;42;19
+P;Charmander;46;42;43
+P;Charmeleon;56;76;58
+P;Charizard;63;38;41
+P;CharizardMega Charizard X;55;42;53
+P;CharizardMega Charizard Y;52;54;43
+P;Squirtle;43;48;61
+P;Wartortle;58;63;52
+P;Blastoise;42;61;40
+P;BlastoiseMega Blastoise;52;44;54
+P;Caterpie;45;30;35
+P;Metapod;30;20;55
+P;Butterfree;59;45;50
+P;Weedle;50;35;30
+P;Kakuna;35;25;50
+P;Beedrill;42;32;40
+P;BeedrillMega Beedrill;37;59;40
+P;Pidgey;56;45;40
+P;Pidgeotto;16;60;55
+P;Pidgeot;53;48;55
+P;PidgeotMega Pidgeot;53;39;50
+P;Rattata;30;56;35
+P;Raticate;49;44;60
+P;Spearow;18;60;30
+P;Fearow;45;56;28
+P;Ekans;55;60;44
+P;Arbok;62;29;39

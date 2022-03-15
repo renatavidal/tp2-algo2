@@ -1,0 +1,27 @@
+G;Gimnasio de Ciudad Celeste; 15; 3
+L;Misty
+P;Staryu; 50; 40; 50
+P;Starmie; 90; 50; 60
+E;Dominguera Diana
+P;Goldeen; 40; 50; 30
+E;Nadador Luis
+P;Horsea; 45; 30; 20
+P;Shellder; 30;20;45
+G;Gimnasio de MORON; 15; 4
+L;Marta
+P;tiburon; 50; 40; 50
+P;cobra; 90; 50; 60
+E;juan
+P;hamster; 40; 50; 30
+E;luis
+P;caballo; 45; 30; 20
+P;canguro; 30;20;45
+G;Gimnasio de CASTELAR; 15; 1
+L;MITIA
+P;PERRO; 50; 40; 50
+P;GATO; 90; 50; 60
+E;MIPRIMO
+P;LORO; 40; 50; 30
+E;MIABUELO
+P;PEZ; 45; 30; 20
+P;LIEBRE; 30;20;45
